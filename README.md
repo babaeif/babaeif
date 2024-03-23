@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babaeif
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Data Science and AI at Le Wagon Berlin
 
 <!---
 babaeif/babaeif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
